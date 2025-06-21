@@ -9,7 +9,7 @@ Script Purpose:
 ===============================================================================
 */
 
-use DataWarehouse;
+USE DataWarehouse;
 
 
 IF OBJECT_ID('bronze.crm_cust_info', 'U') IS NOT NULL
